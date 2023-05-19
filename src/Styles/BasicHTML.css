@@ -1,0 +1,42 @@
+.contenedor{
+  background-color: #DFF8EB
+}
+.contenedor td{
+  border: red 1px dotted;
+  max-width: 23vw;
+  word-wrap: break-word;
+}
+.contenedor code{
+  color: #7e1963;
+  font-weight: bold;
+}
+.contenedor tfoot{
+  background-color: rgb(85, 85, 85);
+  color: #ffffff;
+  font-weight: bold;
+}
+.contenedor tfoot code{
+  color: #ff63d5;
+  font-weight: bold;
+}
+.contenedor tfoot a{
+  color: #6373ff;
+  text-decoration: none;
+}
+.tab{
+  margin-left: 25px;
+}
+.tab1{
+  margin-left: 50px;
+}
+.tab2{
+  margin-left: 75px;
+}
+.subtitulo{
+  text-align: center;
+}
+.main-table{
+  background-color: rgb(164, 255, 209);
+  margin: 0 0 5vw 0 ;
+  border: 2px green solid;
+}
